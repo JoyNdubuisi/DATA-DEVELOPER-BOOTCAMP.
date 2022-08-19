@@ -1,6 +1,8 @@
 # DATA-DEVELOPER-BOOTCAMP-UDEMY-PROJECT
 ____________
 ### PROJECT-DESCRIPTION
+
+This project 
 ____________
 ### DATA-SOURCE
 
@@ -12,7 +14,7 @@ https://github.com/Fabulousnani/Data-Developer-Bootcamp/blob/main/Data_Sheet_Ude
 https://github.com/Fabulousnani/Data-Developer-Bootcamp/blob/main/Data_Sheet_Udemy_Courses_-_Web_Development.csv
 
 ____________
-### PROJECT-PROBLEM
+### PROBLEM-STATEMENT
 
 Having lots of courses in Udemy, we need to acertain the courses that will cause an increase in revenue for the company.
 ____________
