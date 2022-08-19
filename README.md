@@ -21,6 +21,6 @@ Having lots of courses in Udemy, we need to acertain the courses that will cause
 ____________
 ### FINDINGS
 
-
+![Udemy Subject Dashboard](https://user-images.githubusercontent.com/110602626/185660225-8667100f-7105-40c9-a12f-23dfe3de597f.PNG
 ____________
 ### RECOMMENDATION
