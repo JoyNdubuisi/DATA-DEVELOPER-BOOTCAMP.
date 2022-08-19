@@ -19,5 +19,7 @@ ____________
 Having lots of courses in Udemy, we need to acertain the courses that will cause an increase in revenue for the company.
 ____________
 ### FINDINGS
+
+
 ____________
 ### RECOMMENDATION
