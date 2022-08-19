@@ -26,3 +26,5 @@ ____________
 ### RECOMMENDATION
 
 Web development being the course subject with the most subscribers, i recommend that courses in this subject category should have an increase in price therefore causing and increase in revenue.
+
+I also recommend that graphics design subject category which has the highest rating should be reviewed for an increase in price as it shows students are satisfied with the course contents and delivery.
