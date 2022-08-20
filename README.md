@@ -3,7 +3,7 @@
 ____________
 ### PROJECT-DESCRIPTION
 
-This project consists of four (4) data sets (Data Sheet Udemy Courses - Business Courses, Data Sheet Udemy Courses - Design Courses,  Data Sheet Udemy Courses - Music Courses and Data Sheet Udemy Courses - Web Development) which are made up of 3676 rows and 12 columns (Course ID, Course Title, Url, Price, Num of Subscribers, Num of Reviews, Num of Lectures, Level, Rating, Content Duration, Published Timestamp and Subject). I performed ETL (Extract, Transform and Load) in order to prepare the data for analysis. I analyzed and visualized the data using Excel.
+This project consists of four (4) data sets (Data Sheet Udemy Courses - Business Courses, Data Sheet Udemy Courses - Design Courses,  Data Sheet Udemy Courses - Music Courses and Data Sheet Udemy Courses - Web Development) which are made up of 3676 rows and 12 columns (Course ID, Course Title, Url, Price, Num of Subscribers, Num of Reviews, Num of Lectures, Level, Rating, Content Duration, Published Timestamp and Subject).  I performed data extraction, cleaning,transformation and loading in order to prepare the data for analysis. I analyzed and visualized the data using Excel.
 ____________
 ### DATA-SOURCE
 
